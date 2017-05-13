@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/company-kata/company-kata.iml" filepath="$PROJECT_DIR$/company-kata/company-kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company-kata/company-kata.iml" filepath="$PROJECT_DIR$/company-kata/company-kata.iml" group="company-kata" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/company-kata/company-kata_main.iml" filepath="$PROJECT_DIR$/.idea/modules/company-kata/company-kata_main.iml" group="company-kata" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/company-kata/company-kata_test.iml" filepath="$PROJECT_DIR$/.idea/modules/company-kata/company-kata_test.iml" group="company-kata" />
       <module fileurl="file://$PROJECT_DIR$/eclipse-collections-kata.iml" filepath="$PROJECT_DIR$/eclipse-collections-kata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pet-kata/pet-kata.iml" filepath="$PROJECT_DIR$/pet-kata/pet-kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pet-kata/pet-kata.iml" filepath="$PROJECT_DIR$/pet-kata/pet-kata.iml" group="pet-kata" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pet-kata/pet-kata_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pet-kata/pet-kata_main.iml" group="pet-kata" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pet-kata/pet-kata_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pet-kata/pet-kata_test.iml" group="pet-kata" />
     </modules>
   </component>
 </project>
