@@ -26,6 +26,7 @@ public class Exercise2Test extends CompanyDomainForKata
     @Test
     public void customerFromLondonPredicate()
     {
+        // test
         String predicateClass = CUSTOMER_FROM_LONDON.getClass().getSimpleName();
         Assert.assertTrue(
                 "Solution should use Predicates.attributeEquals() or a lambda but used " + predicateClass,
